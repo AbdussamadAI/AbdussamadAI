@@ -15,10 +15,10 @@ I like work that ends with a number: a speedup, an F1 score, a false-alarm rate.
 
 ## Tools
 
-**ML / DL:** PyTorch · Temporal Fusion Transformer · LSTM · XGBoost · scikit-learn
-**GPU / HPC:** CUDA · Numba · multi-GPU training · Slurm · NVIDIA A100
-**LLM:** RAG · LlamaIndex · CrewAI · pgvector · OpenAI / Groq / open-weight models
-**Engineering:** Python · FastAPI · Next.js / TypeScript · Supabase / PostgreSQL · Docker · AWS (SageMaker, Lambda)
+- **ML / DL:** PyTorch · Temporal Fusion Transformer · LSTM · XGBoost · scikit-learn
+- **GPU / HPC:** CUDA · Numba · multi-GPU training · Slurm · NVIDIA A100
+- **LLM:** RAG · LlamaIndex · CrewAI · pgvector · OpenAI / Groq / open-weight models
+- **Engineering:** Python · FastAPI · Next.js / TypeScript · Supabase / PostgreSQL · Docker · AWS (SageMaker, Lambda)
 
 ## Contact
 
