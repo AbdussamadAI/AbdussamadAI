@@ -1,7 +1,6 @@
 # Hi, I'm Abdussamad Idris Ali
 
-**AI Engineer** working on GPU-accelerated machine learning, time-series forecasting and LLM/RAG systems, mostly for fintech problems in Nigeria.
-
+**AI Engineer** working on GPU-accelerated machine learning, time-series forecasting and LLM/RAG systems
 I like work that ends with a number: a speedup, an F1 score, a false-alarm rate.
 
 ## Featured work
